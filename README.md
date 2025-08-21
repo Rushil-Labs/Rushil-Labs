@@ -1,6 +1,6 @@
 # Welcome
 
-Hi, I’m **Rushil**, a **Cybersecurity & Cloud Engineer** passionate about building **secure, scalable, and efficient systems**.  
+Hi, I’m **Rushil**, a **Cybersecurity & Cloud Professional** passionate about building **secure, scalable, and efficient systems**.  
 I enjoy working at the intersection of **security and cloud**. 
 
 ---
