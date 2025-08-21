@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome
 
-<!--
-**Rushil-Labs/Rushil-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Rushil**, a **Cybersecurity & Cloud Engineer** passionate about building **secure, scalable, and efficient systems**.  
+I enjoy working at the intersection of **security and cloud**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 📊 **Wazuh SIEM Deployment** | Implemented **Wazuh SIEM** for real-time threat detection, log analysis, and host-based intrusion detection (**Snort**) across Proxmox-hosted web servers | Wazuh, Snort, Proxmox | [GitHub Repo](https://github.com/Rushil-Labs/cloudflare_ddns_updater) |
+| 🛡️ **CrowdSec Integration** | Leveraged **CrowdSec** to detect and mitigate malicious IP activity, enhancing server security with community-driven threat intelligence | CrowdSec, Linux, Firewall | [GitHub Repo](https://github.com/Rushil-Labs/Crowdsec) |
+| 🛒 **AWS Mult Tier E-commerce app** | Cloud-native e-commerce app with authentication, product images, and persistent storage | ECS, RDS, Cloudfront, S3, ALB, Cognito | [GitHub Repo](https://github.com/Rushil-Labs/AWS-Multi-tier-app) |
+| 🌐 **Cloudflare DDNS Updater** | Lightweight Bash script to sync home lab domain with private IP to facilitate internal DNS lookups | Bash, Cloudflare API | [GitHub Repo](https://github.com/Rushil-Labs/cloudflare_ddns_updater) |
+
+
+## 📜 Certifications
+
+![CompTIA Security+](assets/certs/comptia-security-ce-certification.png)
+![AWS Solutions Architect](assets/certs/aws-certified-solutions-architect-associate.png)
+![AWS Certified Cloud Practitioner](assets/certs/aws-certified-cloud-practitioner.png)
+
