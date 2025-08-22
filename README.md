@@ -1,7 +1,7 @@
 # Welcome
 
 Hi, I’m **Rushil**, a **Cybersecurity & Cloud Professional** passionate about building **secure, scalable, and efficient systems**.  
-I enjoy working at the intersection of **security and cloud**. 
+I enjoy working at the intersection of **security, cloud and IoT**. 
 
 ---
 
@@ -9,7 +9,6 @@ I enjoy working at the intersection of **security and cloud**.
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 📊 **Wazuh SIEM Deployment** | Implemented **Wazuh SIEM** for real-time threat detection, log analysis, and host-based intrusion detection (**Snort**) across Proxmox-hosted web servers | Wazuh, Snort, Proxmox | [GitHub Repo](https://github.com/Rushil-Labs/cloudflare_ddns_updater) |
 | 🛡️ **CrowdSec Integration** | Leveraged **CrowdSec** to detect and mitigate malicious IP activity, enhancing server security with community-driven threat intelligence | CrowdSec, Linux, Firewall | [GitHub Repo](https://github.com/Rushil-Labs/Crowdsec) |
 | 🌐 **Endless SSH Honeypot** | Exploits the banner feature of ssh to delay bruteforce attacks | Docker, SSH | [GitHub Repo](https://github.com/Rushil-Labs/ssh-honeypot) |
 | 🛒 **AWS Mult Tier E-commerce app** | Cloud-native e-commerce app with authentication, product images, and persistent storage | ECS, RDS, Cloudfront, S3, ALB, Cognito | [GitHub Repo](https://github.com/Rushil-Labs/AWS-Multi-tier-app) |
